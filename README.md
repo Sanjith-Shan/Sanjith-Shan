@@ -8,7 +8,7 @@ I bring strong technical skills across the full stack, from designing responsive
 
 ## 🚀 Current Projects:
 
-🛒 **AgentFBA** – Agentic market research platform for Amazon sellers
+🛒 **[AgentFBA](https://agentfba.com)** – Agentic market research platform for Amazon sellers
 
 🩺 **Iatric** – Real-time AI medical-checkup assistant
 
