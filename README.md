@@ -21,16 +21,17 @@ I bring strong technical skills across the full stack, from designing responsive
 🔬 Research Assistant, Brain-Computer Interfaces @ UCSD Cognitive Science Dept
 
 **Previous:**  
+🛒 CEO & Cofounder @ Lagoon AI  
+🤖 Creator @ Recycling Sentry  
+🏥 CEO @ FullCart Incorporated  
+📊 Product Intern @ Bumper Investing  
+📱 Product Intern @ Verba  
 📚 Research Assistant @ Stanford Eberhart Lab  
 💼 Research Assistant @ UC Berkeley Even-Tov Lab  
 🧪 Research Assistant @ UC Berkeley Critcher Lab  
 📖 President/Founder @ BizTheory Incorporated  
 💡 Project Leader @ Irvington Diamond Consulting  
-🤖 Creator @ Recycling Sentry  
-🛒 CEO & Cofounder @ Lagoon AI  
-🏥 CEO @ FullCart Incorporated  
-📊 Product Intern @ Bumper Investing  
-📱 Product Intern @ Verba  
+✏️ Design @ Video Game Development UCSD
 
 ## 💻 Tech Stack
 
