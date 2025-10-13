@@ -1,20 +1,20 @@
 # 👋 About Me
 
-Hey! I'm Sanjith, a **Math-Computer Science major** at **UC San Diego** with a minor in **Data Science**. 
+Hey! I'm Sanjith, a **Math-CS major** at **UCSD** with a minor in **DS**. 
 
-I'm passionate about taking ideas from **concept to deployment** and creating **full-stack applications** that users actually want to use. Outside of software development, I'm interested in **neurotechnology and brain-computer interfaces** as a personal passion. I love exploring how we can bridge the gap between human cognition and technology through BCI research.
+I'm passionate about taking ideas from **concept to deployment** and creating **full-stack applications** that users actually want to use. Outside of software development, I'm interested in **neurotechnology and brain-computer interfaces** as a personal passion.
 
-I bring strong technical skills across the full stack, from designing responsive frontends with **React and TypeScript** to architecting scalable backends with **FastAPI and Docker**. I've **led teams, raised sponsorships**, and shipped products that have reached **hundreds of users**. Whether I'm optimizing **WebSocket connections** for real-time AI applications or training custom **ML models**, I'm always focused on building systems that are both technically robust and genuinely useful.
+I bring strong technical skills across the full stack, from designing responsive frontends with **React and TypeScript** to architecting scalable backends with **FastAPI and Docker**. Whether I'm optimizing **WebSocket connections** for real-time AI applications or training custom **ML models**, I'm always focused on building systems that are both technically robust and genuinely useful.
 
-## 🚀 Current Projects
+## 🚀 Current Projects:
 
-🛒 **AgentFBA** – Agentic market research platform for Amazon sellers analyzing 500M+ products through natural language queries, algorithmic opportunity scoring, and cluster visualization. Built with React, TypeScript, FastAPI, D3.js, and deployed on AWS.
+🛒 **AgentFBA** – Agentic market research platform for Amazon sellers
 
-🩺 **Iatric** – Real-time AI medical assistant that transcribes doctor-patient conversations and verifies medical claims against research papers. Features live audio streaming, custom NLP pipeline, and patient data anonymization.
+🩺 **Iatric** – Real-time AI medical-checkup assistant
 
-📚 **TalkTutor** – Conversational AI tutoring platform using OpenAI Realtime API for voice-based Socratic learning with bidirectional audio streaming and low-latency responses.
+📚 **TalkTutor** – Conversational AI tutoring platform
 
-## 💼 Experience
+## 💼 Experience:
 
 **Current:**  
 🧠 Software Developer @ TNT Neurotech  
