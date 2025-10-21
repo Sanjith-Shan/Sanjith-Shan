@@ -21,7 +21,7 @@ I bring strong technical skills across the full stack, from designing responsive
 🔬 Research Assistant, Brain-Computer Interfaces @ UCSD Cognitive Science Dept
 
 **Previous:**  
-🛒 CEO & Cofounder @ Lagoon AI  
+🛒 Cofounder @ Lagoon AI  
 🤖 Founder @ Recycling Sentry  
 🏥 CEO @ FullCart Incorporated  
 📊 Software Engineering Intern @ Bumper Investing  
@@ -47,4 +47,4 @@ I bring strong technical skills across the full stack, from designing responsive
 
 📫 **Contact:** sshanmugavel@ucsd.edu  
 🔗 **LinkedIn:** [linkedin.com/in/sanjith-shan](https://linkedin.com/in/sanjith-shan)  
-💻 **GitHub:** [https://github.com/Sanjith-Shan](https://github.com/Sanjith-Shan)
+💻 **GitHub:** [github.com/Sanjith-Shan](https://github.com/Sanjith-Shan)
