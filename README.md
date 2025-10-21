@@ -4,7 +4,7 @@ Hey! I'm Sanjith, a **Math-CS major** at **UCSD** with a minor in **DS**.
 
 I'm passionate about taking ideas from **concept to deployment** and creating **full-stack applications** that users actually want to use. Outside of software development, I'm interested in **neurotechnology and brain-computer interfaces** as a personal passion.
 
-I bring strong technical skills across the full stack, from designing responsive frontends with **React and TypeScript** to architecting scalable backends with **FastAPI and Docker**. Whether I'm optimizing **WebSocket connections** for real-time AI applications or training custom **ML models**, I'm always focused on building systems that are both technically robust and genuinely useful.
+I bring strong technical skills across the full stack, from designing responsive frontends with **React and TypeScript** to creating scalable backends with **FastAPI and Docker**. Whether I'm optimizing **WebSocket connections** for real-time AI applications or training custom **ML models**, I'm always focused on building systems that are both technically robust and genuinely useful.
 
 ## 🚀 Current Projects:
 
@@ -22,15 +22,14 @@ I bring strong technical skills across the full stack, from designing responsive
 
 **Previous:**  
 🛒 CEO & Cofounder @ Lagoon AI  
-🤖 Creator @ Recycling Sentry  
+🤖 Founder @ Recycling Sentry  
 🏥 CEO @ FullCart Incorporated  
-📊 Product Intern @ Bumper Investing  
-📱 Product Intern @ Verba  
+📊 Software Engineering Intern @ Bumper Investing  
+📱 Software Engineering Intern @ Verba  
 📚 Research Assistant @ Stanford Eberhart Lab  
 💼 Research Assistant @ UC Berkeley Even-Tov Lab  
 🧪 Research Assistant @ UC Berkeley Critcher Lab  
 📖 President/Founder @ BizTheory Incorporated  
-💡 Project Leader @ Irvington Diamond Consulting  
 ✏️ Design @ Video Game Development UCSD
 
 ## 💻 Tech Stack
@@ -48,4 +47,4 @@ I bring strong technical skills across the full stack, from designing responsive
 
 📫 **Contact:** sshanmugavel@ucsd.edu  
 🔗 **LinkedIn:** [linkedin.com/in/sanjith-shan](https://linkedin.com/in/sanjith-shan)  
-💻 **GitHub:** You're already here!
+💻 **GitHub:** [https://github.com/Sanjith-Shan](https://github.com/Sanjith-Shan)
