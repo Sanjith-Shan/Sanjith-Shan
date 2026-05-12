@@ -4,6 +4,7 @@ Hey! I'm Sanjith, a **Math-CS major** at **UCSD** with a minor in **Data Science
 
 I build systems that bridge **software and hardware** — from full-stack web apps to custom PCBs and embedded firmware. I'm currently a **Software Engineer at [Eigen Labs](https://www.eigenlayer.xyz/)** (a16z-backed, invite-only — 5 selected from 400+ applicants) building verifiable autonomous agents, and **President of Triton Neurotech** where I lead 70+ developers building brain-computer interfaces. I've won **5 hackathons** and I'm always looking for the next thing to build.
 
+
 ## 🚀 Current Projects:
 
 ⚡ **[Jupiter Touch](https://github.com/Sanjith-Shan/Jupiter-Touch)** – Per-finger EMS haptic feedback for VR. 12 channels, custom PCBs, Arduino firmware, Unity hand tracking. No equivalent in published research.
@@ -12,7 +13,8 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 
 🧠 **[Gait Motor Imagery BCI](https://github.com/Sanjith-Shan/Gait-Motor-Imagery-BCI)** – EEG classification pipeline for lower-limb motor imagery. 9-page research paper.
 
-## 🏆 Competition Wins
+
+## 🏆 My Wins
 
 | Award | Event |
 |-------|-------|
@@ -21,6 +23,7 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 | 🥈 2nd Place Overall | United Nations Sustainability Hackathon |
 | 🥈 2nd Place, BCI Competition | California Neurotech Conference |
 | 🏅 4th Place | Amgen State Hackathon |
+
 
 ## 💼 Experience:
 
@@ -40,6 +43,7 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 📱 Software Engineering Intern @ Verba  
 📖 President/Founder @ BizTheory Incorporated  
 
+
 ## 💻 Tech Stack
 
 ### Programming Languages
@@ -54,6 +58,6 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 ---
 
 📫 **Contact:** sanjith.shan24@gmail.com or sshanmugavel@ucsd.edu
-🌐 **Personal Website:** [sanjith.space](https://sanjith.space)
-🔗 **LinkedIn:** [linkedin.com/in/sanjith-shan](https://linkedin.com/in/sanjith-shan)  
-💻 **GitHub:** [github.com/Sanjith-Shan](https://github.com/Sanjith-Shan)  
+ | 🌐 **Personal Website:** [sanjith.space](https://sanjith.space)
+ | 🔗 **LinkedIn:** [linkedin.com/in/sanjith-shan](https://linkedin.com/in/sanjith-shan)  
+ | 💻 **GitHub:** [github.com/Sanjith-Shan](https://github.com/Sanjith-Shan)  
