@@ -2,7 +2,7 @@
 
 Hey! I'm Sanjith, a **Math-CS major** at **UCSD** with a minor in **Data Science**. 
 
-I build systems that bridge **software and hardware** — from full-stack web apps to custom PCBs and embedded firmware. I'm currently a **Software Engineer at [Eigen Labs](https://www.eigenlayer.xyz/)** (a16z-backed, invite-only — 5 selected from 400+ applicants) building verifiable autonomous agents, and **President of Triton Neurotech** where I lead 70+ developers building brain-computer interfaces. I've won **5 hackathons** and I'm always looking for the next thing to build.
+I build systems that bridge **software and hardware** — from full-stack web apps to custom PCBs and embedded firmware. I'm currently a **Software Engineer Intern at [Eigen Labs](https://www.eigenlayer.xyz/)** building verifiable autonomous agents, and **President of Triton Neurotech** where I lead 70+ developers building brain-computer interfaces. I've won **6 hackathons** and I'm always looking for the next thing to build.
 
 
 ## 🚀 Current Projects:
@@ -18,9 +18,10 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 
 | Award | Event |
 |-------|-------|
+| 🥇 1st Place Overall | Eigen Labs Agent Hackathon |
 | 🥇 1st Place, Hardware+IoT + Best Use of Gemini | UCSD DataHacks |
 | 🥇 1st Place, Qualcomm IoT Track | UCSD DiamondHacks |
-| 🥈 2nd Place Overall | United Nations Sustainability Hackathon |
+| 🥈 2nd Place Overall | United Nations RTE Hackathon |
 | 🥈 2nd Place, BCI Competition | California Neurotech Conference |
 | 🏅 4th Place | Amgen State Hackathon |
 
@@ -28,7 +29,7 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 ## 💼 Experience:
 
 **Current:**  
-🔧 Software Engineer @ Eigen Labs — EigenCloud Private Preview  
+🔧 Software Engineer Intern @ Eigen Labs
 🧠 President @ Triton Neurotech — 70+ developers, BCI for assistive tech  
 
 **Previous:**  
