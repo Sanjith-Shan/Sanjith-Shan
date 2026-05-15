@@ -18,9 +18,9 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 
 | Award | Event |
 |-------|-------|
-| 🥇 1st Place Overall | Eigen Labs Agent Hackathon |
 | 🥇 1st Place, Hardware+IoT + Best Use of Gemini | UCSD DataHacks |
 | 🥇 1st Place, Qualcomm IoT Track | UCSD DiamondHacks |
+| 🥇 1st Place Overall | Eigen Labs |
 | 🥈 2nd Place Overall | United Nations RTE Hackathon |
 | 🥈 2nd Place, BCI Competition | California Neurotech Conference |
 | 🏅 4th Place | Amgen State Hackathon |
