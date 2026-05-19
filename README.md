@@ -58,7 +58,7 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 
 ---
 
-📫 **Contact:** sanjith.shan24@gmail.com or sshanmugavel@ucsd.edu
- | 🌐 **Personal Website:** [sanjith.space](https://sanjith.space)
- | 🔗 **LinkedIn:** [linkedin.com/in/sanjith-shan](https://linkedin.com/in/sanjith-shan)  
- | 💻 **GitHub:** [github.com/Sanjith-Shan](https://github.com/Sanjith-Shan)  
+📫 **Contact:** sanjith.shan24@gmail.com or sshanmugavel@ucsd.edu  
+🌐 **Personal Website:** [sanjith.space](https://sanjith.space)  
+🔗 **LinkedIn:** [linkedin.com/in/sanjith-shan](https://linkedin.com/in/sanjith-shan)  
+💻 **GitHub:** [github.com/Sanjith-Shan](https://github.com/Sanjith-Shan)  
