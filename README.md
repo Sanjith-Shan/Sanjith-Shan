@@ -29,7 +29,7 @@ I build systems that bridge **software and hardware** — from full-stack web ap
 ## 💼 Experience:
 
 **Current:**  
-🔧 Software Engineer Intern @ Eigen Labs
+🔧 Software Engineer Intern @ Eigen Labs  
 🧠 President @ Triton Neurotech — 70+ developers, BCI for assistive tech  
 
 **Previous:**  
