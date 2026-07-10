@@ -47,7 +47,7 @@ I build systems across the stack, from CUDA kernels on A100s to production AI pi
 ## 💼 Experience
 
 **Current:**  
-🔧 Forward Deployed Engineer Intern @ **Paragon (YC W25)**
+🔧 Forward Deployed Engineer Intern @ **Paragon (YC W25)**  
 🧠 President @ **Triton Neurotech**
 
 **Previous:**  
