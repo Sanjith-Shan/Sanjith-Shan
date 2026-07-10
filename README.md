@@ -2,7 +2,7 @@
 
 Hey! I'm Sanjith, a **Math-CS major** at **UCSD** with a minor in **Data Science**. 
 
-I build systems across the stack, from CUDA kernels on A100s to production AI pipelines to custom PCBs and embedded firmware. I'm currently a **Forward Deployed Engineer Intern at Paragon (YC W25)** building AI matching pipelines for 300 daily users, and **President of Triton Neurotech** where I lead 70+ developers building brain-computer interfaces. Previously a **Software Engineer Intern at Eigen Labs (a16z-backed)** where I won 1st Place at their Agent Hackathon. I've won **6 hackathons** and I'm always looking for the next thing to build.
+I build systems across the stack, from CUDA kernels on A100s to production AI pipelines to custom PCBs and embedded firmware. I'm currently a **Forward Deployed Engineer Intern at Paragon (YC W25)** building AI quoting and account-acquisition tools for billion-dollar clients.
 
 
 ## 🚀 Projects
@@ -47,12 +47,12 @@ I build systems across the stack, from CUDA kernels on A100s to production AI pi
 ## 💼 Experience
 
 **Current:**  
-🔧 Forward Deployed Engineer Intern @ **Paragon (YC W25)** – AI quoting pipeline, 300 daily users, $60M+ quoted value  
-🧠 President @ **Triton Neurotech** – 70+ developers, BCI for assistive tech
+🔧 Forward Deployed Engineer Intern @ **Paragon (YC W25)**
+🧠 President @ **Triton Neurotech**
 
 **Previous:**  
-⚙️ Software Engineer Intern @ **Eigen Labs (a16z-backed)**  
-🔬 ML Engineer & Research Assistant @ **UCSD Neuroengineering Lab**  
+⚙️ Software Engineer Intern @ Eigen Labs (a16z-backed)  
+🔬 ML Engineer & Research Assistant @ UCSD Neuroengineering Lab  
 📊 Software Engineering Intern @ Bumper Inc.  
 📚 Research Assistant @ Stanford Eberhart Lab  
 💼 Research Assistant @ UC Berkeley Even-Tov Lab  
@@ -78,6 +78,6 @@ I build systems across the stack, from CUDA kernels on A100s to production AI pi
 
 ---
 
-📫 **Contact:** sshanmugavel@ucsd.edu
-🌐 **Website:** [sanjith.space](https://sanjith.space)
+📫 **Contact:** sshanmugavel@ucsd.edu  
+🌐 **Website:** [sanjith.space](https://sanjith.space)  
 🔗 **LinkedIn:** [linkedin.com/in/sanjith-shan](https://linkedin.com/in/sanjith-shan)
