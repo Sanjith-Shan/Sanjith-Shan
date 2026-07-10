@@ -47,11 +47,11 @@ I build systems across the stack, from CUDA kernels on A100s to production AI pi
 ## 💼 Experience
 
 **Current:**  
-🔧 Forward Deployed Engineer Intern @ **Paragon (YC W25)** – AI matching pipeline, 300 daily users, 170K products, $60M+ quoted value  
+🔧 Forward Deployed Engineer Intern @ **Paragon (YC W25)** – AI quoting pipeline, 300 daily users, $60M+ quoted value  
 🧠 President @ **Triton Neurotech** – 70+ developers, BCI for assistive tech
 
 **Previous:**  
-⚙️ Software Engineer Intern @ **Eigen Labs (a16z-backed)**
+⚙️ Software Engineer Intern @ **Eigen Labs (a16z-backed)**  
 🔬 ML Engineer & Research Assistant @ **UCSD Neuroengineering Lab**  
 📊 Software Engineering Intern @ Bumper Inc.  
 📚 Research Assistant @ Stanford Eberhart Lab  
