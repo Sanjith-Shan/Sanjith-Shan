@@ -2,37 +2,10 @@
 
 Hey! I'm Sanjith, a **Math-CS major** at **UCSD** with a minor in **Data Science**. 
 
-I build systems across the stack, from CUDA kernels on A100s to production AI pipelines to custom PCBs and embedded firmware. I'm currently a **Forward Deployed Engineer Intern at Paragon (YC W25)** building AI quoting and account-acquisition tools for billion-dollar clients.
+I build systems across the stack, from CUDA kernels on A100s to production AI pipelines to custom PCBs and embedded firmware. I was previously a **Forward Deployed Engineer Intern at Paragon (YC W25)** building AI quoting and account-acquisition tools for billion-dollar clients.
 
 
-## 🚀 Projects
-
-### GPU & Performance
-⚡ **[CUDA-SGEMM-Optimization](https://github.com/Sanjith-Shan/CUDA-SGEMM-Optimization)** – High-performance matrix multiply kernels in CUDA C++ on A100. Reached 87.6% of cuBLAS throughput. Benchmarked against CUTLASS (97.7% cuBLAS). Dockerized for reproducible GPU benchmarking.
-
-💰 **[MonteCarloGPU](https://github.com/Sanjith-Shan/MonteCarloGPU)** – GPU-accelerated Monte Carlo option pricing engine. European, Asian, and barrier options with cuRAND Philox. 63x CPU-to-GPU speedup. Neural surrogate pricer at 545K options/sec. Portfolio VaR, delta hedging backtest, and convergence analysis. Containerized with Docker, scaled via Slurm and Kubernetes.
-
-### AI & ML
-🔍 **[NotionFlow](https://github.com/Sanjith-Shan/NotionFlow)** – AI knowledge agent for Notion workspaces. RAG pipeline with vector embeddings, semantic chunking, and a Notion Worker with 3 agent tools on the Developer Platform. React dashboard and CLI with a dependency-free TF-IDF fallback.
-
-📊 **[AdRankBench](https://github.com/Sanjith-Shan/AdRankBench)** – CTR prediction benchmark training 5 ranking models (LR, FM, DeepFM, DCN, DNN) on 2M+ Criteo ad impressions. Two-tower DSSM relevance model, budget pacing simulator, and inference optimization across PyTorch, ONNX Runtime, and OpenVINO.
-
-🧪 **[LLM Statistical Reasoning Eval](https://github.com/Sanjith-Shan/LLM_Statistical_Reasoning_Eval)** – Evaluation framework that found a systematic blind spot in frontier LLMs. 0% pass@3 on Gemini Flash across 10 tasks with deterministic verifiers in sandboxed Docker environments.
-
-### Fullstack & Platform
-🚀 **[SudoApply](https://sudoapply.vercel.app/)** – Agentic job application platform. 30+ beta testers, 500+ applications weekly. Next.js web app, SwiftUI iOS app, two Python microservices. Auto-apply engine spawning parallel browser agents across 12 ATS platforms.
-
-☁️ **[CloudRelay](https://github.com/Sanjith-Shan/CloudRelay)** – Cloud gaming session orchestration service. Java Spring Boot, Redis cache-aside with pub/sub, MongoDB, Kubernetes with Helm, Prometheus monitoring. 700+ req/s, p99 under 45ms.
-
-### Hardware & Embedded
-⚡ **[Jupiter Touch](https://github.com/Sanjith-Shan/Jupiter-Touch)** – Per-finger EMS haptic feedback system for VR. 2 custom PCBs in KiCad, Arduino C++ firmware, I2C digital potentiometers, 12 independent stimulation channels, Python UDP bridge routing 90 Hz hand-tracking from Meta Quest 3.
-
-🔧 **[Forge](https://crates.io/crates/forge-embedded)** – Published Rust CLI on crates.io that generates dependency-ordered C initialization code and Zephyr RTOS devicetree overlays for embedded boards from natural language. Compiler-style pipeline detecting pin conflicts and bus overload.
-
-🤖 **[MiniVLA](https://github.com/Sanjith-Shan/MiniVLA)** – Vision-language-action model for robotic manipulation. Frozen ResNet-18 vision encoder, learned language encoder, multimodal fusion, and action decoder. Trained on 5,000+ simulated demonstrations in PyBullet. 80% pick task success rate.
-
-
-## 🏆 Hackathon Wins
+## Hackathon Wins
 
 | Award | Event |
 |-------|-------|
@@ -44,13 +17,13 @@ I build systems across the stack, from CUDA kernels on A100s to production AI pi
 | 🏅 4th Place | Amgen State Hackathon |
 
 
-## 💼 Experience
+## Experience
 
 **Current:**  
-🔧 Forward Deployed Engineer Intern @ **Paragon (YC W25)**  
-🧠 President @ **Triton Neurotech**
+President @ **Triton Neurotech**
 
 **Previous:**  
+🔧 Forward Deployed Engineer Intern @ Paragon (YC W25) 
 ⚙️ Software Engineer Intern @ Eigen Labs (a16z-backed)  
 🔬 ML Engineer & Research Assistant @ UCSD Neuroengineering Lab  
 📊 Software Engineering Intern @ Bumper Inc.  
